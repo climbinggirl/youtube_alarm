@@ -1,4 +1,4 @@
-# youtube random video player
+n# youtube random video player
 import json
 import requests
 import string
@@ -7,7 +7,7 @@ import webbrowser
 
 
 COUNT = 50
-API_KEY = 'AIzaSyCPVY2z2uKhrgRYUZ-s-D408LYhpqv1jq0'
+API_KEY = 'enter your key number here'
 
 # getting a link to random YouTube Video
 def main():
